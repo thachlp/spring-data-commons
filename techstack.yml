@@ -1,7 +1,8 @@
 repo_name: thachlp/spring-data-commons
 report_id: 59e55de489d8da902a4b9089d9aa9b82
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T03:06:13+00:00'
+timestamp: '2024-01-05T09:02:57+00:00'
 requested_by: mp911de
 provider: github
 branch: main
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
-  detection_source_url: pom.xml
+  detection_source_url: https://github.com/thachlp/spring-data-commons/blob/main/pom.xml
   detection_source: pom.xml
   last_updated_by: Christoph Strobl
   last_updated_on: 2022-05-13 10:39:10.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons
   detection_source: Repo Metadata
 - name: Project Reactor
   description: Library for building non-blocking applications on JVM
@@ -48,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons/blob/main/pom.xml
   detection_source: pom.xml
   last_updated_by: Mark Paluch
   last_updated_on: 2022-10-13 15:24:04.000000000 Z
@@ -60,6 +64,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons/blob/main/pom.xml
   detection_source: pom.xml
   last_updated_by: Christoph Strobl
   last_updated_on: 2022-05-13 10:39:10.000000000 Z
@@ -73,6 +78,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons/blob/main/pom.xml
   detection_source: pom.xml
   last_updated_by: Mark Paluch
   last_updated_on: 2023-07-14 12:57:12.000000000 Z
@@ -85,6 +91,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons/blob/main/pom.xml
   detection_source: pom.xml
   last_updated_by: Christoph Strobl
   last_updated_on: 2022-05-13 10:39:10.000000000 Z
@@ -96,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/thachlp/spring-data-commons/blob/main/pom.xml
   detection_source: pom.xml
   last_updated_by: Spring Buildmaster
   last_updated_on: 2013-02-07 13:10:49.000000000 Z
@@ -107,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -116,6 +125,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons/blob/main/.github/workflows/project.yml
   detection_source: ".github/workflows/project.yml"
   last_updated_by: Mark Paluch
   last_updated_on: 2021-01-20 13:50:10.000000000 Z
@@ -127,6 +137,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/thachlp/spring-data-commons/blob/main/src/test/resources/logback.xml
   detection_source: src/test/resources/logback.xml
   last_updated_by: Oliver Gierke
   last_updated_on: 2012-11-13 18:04:19.000000000 Z
